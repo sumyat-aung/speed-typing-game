@@ -8,8 +8,7 @@
     </a>
   </h3>
 
-<br/>
-<br/>
+<br/> <br/>
 
 ![](Demo/large-screen.png)
 <br/>
